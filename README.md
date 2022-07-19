@@ -35,5 +35,4 @@
 
 ### :chart_with_downwards_trend: Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemazouzi&theme=tokyonight&hide_border=true" alt="houssemeddine's github streak" width="48%" >
-
 <img src="https://github-readme-stats.vercel.app/api?username=hemazouzi&count_private=true&show_icons=true&theme=github_dark" alt="Houssemeddine's github stats" width="48%" align="right" >
