@@ -9,7 +9,6 @@
 - 💬 Ask me about **Serverless architectures**
 - 📫 How to reach me: **houssemeddine.mazouzi@gmail.com**
 
-<br/>
 
 ### :page_with_curl: Languages
 [![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://google.github.io/styleguide/pyguide.html)
@@ -17,7 +16,6 @@
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/doc/effective_go)
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://google.github.io/styleguide/shellguide.html)
 
-<br/>
 
 ### :wrench: Tools
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -28,14 +26,12 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-<br/>
 
 ### :phone: Connect with me:
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hemazouzi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssemeddine-mazouzi-me/)
 
-<br/>
 
 ### :chart_with_downwards_trend: Stats
 <img src="https://github-readme-stats.vercel.app/api?username=hemazouzi&count_private=true&show_icons=true&theme=github_dark" alt="Houssemeddine's github stats" width="48%" align="right" >
