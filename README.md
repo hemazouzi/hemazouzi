@@ -39,3 +39,5 @@
 
 ![houssemeddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemazouzi&count_private=true&show_icons=true&theme=github_dark)
 ![houssemeddine's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=hemazouzi&theme=tokyonight&hide_border=true")
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemazouzi&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact)
