@@ -1,6 +1,7 @@
-### Hi there 👋
-
-**hemazouzi/hemazouzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h1 align="center"> Hi there 👋, I'am Houssemeddine </h1>
+<h4 align="center"> a cloud engineer</h4>
+</div>
 
 Here are some ideas to get you started:
 
@@ -13,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+- 🌱 I’m currently learning **Web3**
+
+- 👨‍💻 All of my projects are available [here](https://itsrakesh.co/work/projects)
+
+- 📝 I regularly write articles on my [blog](https://blog.itsrakesh.co)
+
+- 💬 Ask me about **Web Development**
+
+- 📫 How to reach me **rakesh@itsrakesh.co**
