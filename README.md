@@ -34,3 +34,8 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+
+### 📊 Stats
+
+![houssemeddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemazouzi&count_private=true&show_icons=true&theme=github_dark)
+![houssemeddine's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=hemazouzi&theme=tokyonight&hide_border=true")
