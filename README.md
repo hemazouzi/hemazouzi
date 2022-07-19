@@ -14,12 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- 🌱 I’m currently learning **Web3**
-
-- 👨‍💻 All of my projects are available [here](https://itsrakesh.co/work/projects)
-
-- 📝 I regularly write articles on my [blog](https://blog.itsrakesh.co)
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **rakesh@itsrakesh.co**
